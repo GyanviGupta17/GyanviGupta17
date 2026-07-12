@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi, I'm Gyanvi Gupta 👋
 
-🎓 Pre-final year Computer Science student at SRM Institute of Science and Technology.
+🎓 Final year Computer Science student at SRM Institute of Science and Technology.
 
 💻 Interested in:
 - Data Structures & Algorithms
