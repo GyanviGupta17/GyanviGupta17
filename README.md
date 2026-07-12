@@ -1,16 +1,22 @@
 ## Hi there 👋
+# Hi, I'm Gyanvi Gupta 👋
 
-<!--
-**GyanviGupta17/GyanviGupta17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pre-final year Computer Science student at SRM Institute of Science and Technology.
 
-Here are some ideas to get you started:
+💻 Interested in:
+- Data Structures & Algorithms
+- Full Stack Development
+- Backend Engineering
+- System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- DSA in C++
+- Backend Development
+- Computer Science Fundamentals
+
+📫 Connect with me:
+- LinkedIn: www.linkedin.com/in/gyanviguptaa
+- Email: gyanviguptaa@gmail.com
+
+---
+*"Consistency compounds faster than intensity."*
