@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi, I'm Gyanvi Gupta 👋
 
 🎓 Final year Computer Science student at SRM Institute of Science and Technology.
